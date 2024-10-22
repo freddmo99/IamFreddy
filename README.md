@@ -1,4 +1,3 @@
-# **Freddy Moreno**  
 
 <p align="center">
   <a href="https://github.com/ep626">
@@ -9,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=055BB8FF&center=true&random=true&width=435&weight=600&size=23&lines=Graduate+Student;Optimization+Software+Developer" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=055BB8FF&center=true&random=true&width=435&weight=600&size=23&lines=Freddy+Moreno;Graduate+Student;Optimization+Software+Developer" alt="Typing SVG" /></a>
 </p>
 
 
@@ -20,17 +19,13 @@
 
 ---
 
+**` About Me: Optimization Enthusiast (Solver/Collaborator/Innovator)`**
 
-## ![icons8-computer-science-16](https://github.com/user-attachments/assets/e11ffe0b-9e57-4c8b-9f2d-d6c99928937c) About Me
-
-
-**` Optimization Enthusiast (Solver/Collaborator/Innovator)`**
-
-- 🎓 I am a Master's student in Computer Science at Florida Atlantic University, specializing in algorithm design and optimization.
-- 💻 With experience in web application development and logistics optimization, I am passionate about solving complex problems using data-driven solutions.
-- 🚚 I have worked on inventory routing problems and co-authored research in transportation logistics, applying cutting-edge optimization techniques.
-- 👨‍🏫 As a teaching assistant, I guide students in mastering algorithms and software engineering concepts.
-- 🌍 I am always looking for opportunities to apply my skills in real-world projects that create tangible impact in industries like healthcare and logistics.
+- 🎓 `I am a Master's student in Computer Science at Florida Atlantic University, specializing in algorithm design and optimization.`
+- 💻 `With experience in web application development and logistics optimization, I am passionate about solving complex problems using data-driven solutions.`
+- 🚚 `I have worked on inventory routing problems and co-authored research in transportation logistics, applying cutting-edge optimization techniques.`
+- 👨‍🏫 `As a teaching assistant, I guide students in mastering algorithms and software engineering concepts.`
+- 🌍 `I am always looking for opportunities to apply my skills in real-world projects that create tangible impact in industries like healthcare and logistics.`
 
 
 ##  ⚒️Language Tools⚒️
@@ -54,16 +49,17 @@
 </p>
 ----
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contributions in 2024</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 ----
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <details open>
   <summary><h2>Projects
-  <img alt="project" width="30px" style="padding-right:10px;" src="./images/idea.png">
   </h2>
   </summary>
   <p align="left">
