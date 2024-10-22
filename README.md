@@ -28,7 +28,10 @@
 - 🌍 `I am always looking for opportunities to apply my skills in real-world projects that create tangible impact in industries like healthcare and logistics.`
 
 
-##  ⚒️Language Tools⚒️
+
+<div align="center">
+  <h2>⚒️Language Tools</h2>
+</div>
 
 <p align="center">
   <img alt="React" width="45px" style="padding-right:10px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtmcm9sdnZ6OTNvemg2ZHJhNDAyMnpiZmdrOWhvMnNxNm1wcWQ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RJzm826vu7WbJvBtxX/giphy.gif" />
@@ -56,24 +59,23 @@
   <br/><br/><br/>
 </div>
 ----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <details open>
   <summary><h2>Projects
   </h2>
   </summary>
   <p align="left">
-    <a href="https://github.com/ep626/Dog-Detail">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Dog-Detail&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dog-Detail"></a>
-    <a href="https://github.com/ep626/Brewtopia">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Brewtopia&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false" alt="Brewtopia"></a>
-    <a href="https://github.com/ep626/Top-10-Games">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Top-10-Games&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false" alt="Top-10-Games"></a>
-    <a href="https://github.com/ep626/Cryptogoraphy">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Cryptogoraphy&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false"alt="Cryptogoraphy"></a>
-    <a href="https://github.com/ep626/screenshotGallery">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=screenshotGallery&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false"alt="screenshotGallery"></a>
+    <a href="https://github.com/freddmo99/Pro-Forma-Tor">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=freddmo99&repo=Pro-Forma-Tor&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Pro-Forma-Tor"></a>
+    <a href="https://github.com/freddmo99/AIETM">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=freddmo99&repo=AIETM&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="AIETM"></a>
+    <!a href="https://github.com/freddmo99/AIETM">
+    <!img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Top-10-Games&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false" alt="Top-10-Games"></a>
+    <!a href="https://github.com/ep626/Cryptogoraphy">
+    <!img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Cryptogoraphy&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false"alt="Cryptogoraphy"></a>
+    <!a href="https://github.com/ep626/screenshotGallery">
+    <!img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=screenshotGallery&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false"alt="screenshotGallery"></a>
   </p>
 </details>
 
-### :writing_hand: A day in my life :
+
