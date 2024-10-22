@@ -19,7 +19,7 @@
 </p>
 
 ---
-### :writing_hand: A day in my life :
+
 
 ## ![icons8-computer-science-16](https://github.com/user-attachments/assets/e11ffe0b-9e57-4c8b-9f2d-d6c99928937c) About Me
 
@@ -33,7 +33,7 @@
 - 🌍 I am always looking for opportunities to apply my skills in real-world projects that create tangible impact in industries like healthcare and logistics.
 
 
-## ![icons8-coding-language-16](https://github.com/user-attachments/assets/66ccb46a-eb8e-4877-94d5-65f2921f87e0) Language Tools 
+##  ⚒️Language Tools⚒️
 
 <p align="center">
   <img alt="React" width="45px" style="padding-right:10px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtmcm9sdnZ6OTNvemg2ZHJhNDAyMnpiZmdrOWhvMnNxNm1wcWQ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RJzm826vu7WbJvBtxX/giphy.gif" />
@@ -52,6 +52,14 @@
   <img alt="Matlab" width="45px" style="padding-right:10px;" src="./images/icons8-matlab-100.png" />
   
 </p>
+----
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 ----
 <details open>
   <summary><h2>Projects
@@ -72,4 +80,4 @@
   </p>
 </details>
 
-
+### :writing_hand: A day in my life :
